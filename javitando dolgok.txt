@@ -1,0 +1,11 @@
+Eddig jó, de akkor részletezd:
+
+Milyen felhasználói jogosultságok lesznek, 
+mit fog látni a látogató,
+milyen oldalai lesznek.
+
+Mit fog látni az admin, 
+milyen oldalai lesznek?
+
+Mit fog látni a vásárló,
+milyen oldalai lesznek? 
