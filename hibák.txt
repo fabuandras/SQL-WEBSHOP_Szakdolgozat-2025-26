@@ -1,0 +1,4 @@
+hibák
+-öszekötés
+-backend package_itetem pap artisan migrate fres --seed hiba
+-package mapaban a az oldalak létrehozása a ligin hoz
