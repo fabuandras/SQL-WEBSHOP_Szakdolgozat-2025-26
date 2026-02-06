@@ -1,0 +1,9 @@
+User vKod
+Item cikk_szam
+Package csKod
+Order rendeles_szam
+Order_item rendeles_szam ,cikk_szam
+Card_details kartyaID
+Payment fizID
+Home_delivery cimID
+Package_pickup  csomagatvetelID
