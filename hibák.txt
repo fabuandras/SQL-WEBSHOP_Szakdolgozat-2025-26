@@ -1,4 +1,5 @@
 hibák
--öszekötés
--backend package_itetem pap artisan migrate fres --seed hiba
--package mapaban a az oldalak létrehozása a ligin hoz
+-öszekötés frontend backend
+-Regisztráció után nem irányít át automatikusan az oldalra, vagy nem dobb vissza a bejelentkezéshez.
+-Nincs „Emlékezz rám” gomb a bejelentkezési felületen.
+-A rendszer nem menti el az adatokat az adatbázisba.
