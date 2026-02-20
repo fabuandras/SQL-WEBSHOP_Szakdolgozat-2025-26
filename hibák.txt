@@ -3,3 +3,6 @@ hibák
 -Regisztráció után nem irányít át automatikusan az oldalra, vagy nem dobb vissza a bejelentkezéshez.
 -Nincs „Emlékezz rám” gomb a bejelentkezési felületen.
 -A rendszer nem menti el az adatokat az adatbázisba.
+-Kosár kinézet nincs 
+-nem viszi fel a PackageItemSeeder,PackagePicupSeeder,HomDeliveriSeeder a feltoltott adatot és nem dobb hibát a  php artisan migrate:fresh --seed re
+-a nem regisztrált is be tud lépni ez baj
